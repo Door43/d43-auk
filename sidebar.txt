@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auk:home|Door43 (auk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auk|d43-auk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auk/archive/master.zip|d43-auk.zip]]
+
+**Recent Changes**
+{{changes>ns = auk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auk|Ethnologue data]]
+
